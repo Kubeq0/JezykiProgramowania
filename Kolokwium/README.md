@@ -1,0 +1,1 @@
+Program wyświetla na ekranie trzy wykresy - pierwsza funkcja sinus z podanymi obok parametrami, druga funkcja sinus z podanymi obok parametrami oraz trzeci segment to złożenie tych dwóch funkcji w jedną. Wykresy funkcji miały przesuwać się od lewej do prawej.

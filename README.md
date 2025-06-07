@@ -1,0 +1,1 @@
+Dwa z zadań wykonanych na laboratoria z języków programowania w 2023 roku.
